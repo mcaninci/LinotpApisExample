@@ -1,1 +1,1 @@
-# LinotpApisExample
+# LinOTP Token Delete example
